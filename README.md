@@ -7,7 +7,7 @@ course](http://www.saas-class.org) and (non-free)
 To get started:
 
 0. [Setup a Cloud9
-environment](https://github.com/saasbook/courseware/wiki/Setting-up-Cloud9)
+environment](http://github.com/saasbook/courseware/wiki/Setting-up-Cloud9)
 for the course.
 
 0. In your Cloud9 terminal, type the following command to clone the repository to your development workspace:
